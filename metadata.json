@@ -1,0 +1,6 @@
+{
+  "name": "ElevenVoice AI",
+  "description": "AI Voice Studio inspired by ElevenLabs featuring realistic multi-character text-to-speech, voice design, tone & speed controls, waveforms, and audio sharing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
